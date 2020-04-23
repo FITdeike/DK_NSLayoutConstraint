@@ -8,4 +8,7 @@ Using adapterIphontXBottom is a constraint to adapt to iPhoneX, non-bottom const
 
 To integrate DK_NSLayoutConstraint into your Xcode project using CocoaPods, specify it in your Podfile:
 
-> pod 'DK_NSLayoutConstraint'
+(```)
+   pod 'DK_NSLayoutConstraint'
+(```)
+
